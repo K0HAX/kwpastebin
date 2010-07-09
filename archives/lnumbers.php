@@ -1,5 +1,5 @@
 <?php ob_start();
-/*this file isn't working. fails to give the code. To incorporate, you must:
+/*this file isn't working. it fails to give the code. To incorporate, you must:
 * create an if in view.php. make it using this rule:
 ** if there is no cookie called kwpLnums OR there is one with value == 1, then execute contents of line 26.
 * put this file into the main directory
